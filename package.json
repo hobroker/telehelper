@@ -1,0 +1,18 @@
+{
+  "name": "telehelper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-webcam": "^0.4.6",
+    "screenshot-desktop": "^1.7.0",
+    "telegraf": "^3.28.0"
+  }
+}
